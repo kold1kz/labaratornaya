@@ -1,0 +1,10 @@
+C:\Users\Fnati\source\repos\practic_lab1\practic_lab1\bin\Debug\practic_lab1.exe.config
+C:\Users\Fnati\source\repos\practic_lab1\practic_lab1\bin\Debug\practic_lab1.exe
+C:\Users\Fnati\source\repos\practic_lab1\practic_lab1\bin\Debug\practic_lab1.pdb
+C:\Users\Fnati\source\repos\practic_lab1\practic_lab1\obj\Debug\practic_lab1.csprojAssemblyReference.cache
+C:\Users\Fnati\source\repos\practic_lab1\practic_lab1\obj\Debug\practic_lab1.Form1.resources
+C:\Users\Fnati\source\repos\practic_lab1\practic_lab1\obj\Debug\practic_lab1.Properties.Resources.resources
+C:\Users\Fnati\source\repos\practic_lab1\practic_lab1\obj\Debug\practic_lab1.csproj.GenerateResource.cache
+C:\Users\Fnati\source\repos\practic_lab1\practic_lab1\obj\Debug\practic_lab1.csproj.CoreCompileInputs.cache
+C:\Users\Fnati\source\repos\practic_lab1\practic_lab1\obj\Debug\practic_lab1.exe
+C:\Users\Fnati\source\repos\practic_lab1\practic_lab1\obj\Debug\practic_lab1.pdb
