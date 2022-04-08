@@ -8,3 +8,13 @@ C:\Users\Fnati\source\repos\practic_lab1\practic_lab1\obj\Debug\practic_lab1.csp
 C:\Users\Fnati\source\repos\practic_lab1\practic_lab1\obj\Debug\practic_lab1.csproj.CoreCompileInputs.cache
 C:\Users\Fnati\source\repos\practic_lab1\practic_lab1\obj\Debug\practic_lab1.exe
 C:\Users\Fnati\source\repos\practic_lab1\practic_lab1\obj\Debug\practic_lab1.pdb
+C:\Projects_all\C#\labaratornaya\practic_lab1\practic_lab1\bin\Debug\practic_lab1.exe.config
+C:\Projects_all\C#\labaratornaya\practic_lab1\practic_lab1\bin\Debug\practic_lab1.exe
+C:\Projects_all\C#\labaratornaya\practic_lab1\practic_lab1\bin\Debug\practic_lab1.pdb
+C:\Projects_all\C#\labaratornaya\practic_lab1\practic_lab1\obj\Debug\practic_lab1.csproj.AssemblyReference.cache
+C:\Projects_all\C#\labaratornaya\practic_lab1\practic_lab1\obj\Debug\practic_lab1.Form1.resources
+C:\Projects_all\C#\labaratornaya\practic_lab1\practic_lab1\obj\Debug\practic_lab1.Properties.Resources.resources
+C:\Projects_all\C#\labaratornaya\practic_lab1\practic_lab1\obj\Debug\practic_lab1.csproj.GenerateResource.cache
+C:\Projects_all\C#\labaratornaya\practic_lab1\practic_lab1\obj\Debug\practic_lab1.csproj.CoreCompileInputs.cache
+C:\Projects_all\C#\labaratornaya\practic_lab1\practic_lab1\obj\Debug\practic_lab1.exe
+C:\Projects_all\C#\labaratornaya\practic_lab1\practic_lab1\obj\Debug\practic_lab1.pdb
